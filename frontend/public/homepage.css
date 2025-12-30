@@ -156,10 +156,10 @@ main {
   background-color: white;
   margin: 0 24px;
   margin-bottom: 6vmin;
-  border-radius: 6px;
+  border-radius: 12px;
   box-shadow: 0 0 7px rgba(0, 0, 0, 0.318);
   transition: transform 0.3s ease;
-  border: 1px solid rgba(0, 0, 0, 0.25);
+  border: 1px solid #f0f0f0;
 }
 
 .lost-card:hover {
@@ -221,7 +221,7 @@ main {
   /* background-color: aqua; */
   height: 7vh;
   font-size: 1.3em;
-  font-family: Ubuntu;
+  font-family: roboto;
   font-weight: 450;
 }
 
