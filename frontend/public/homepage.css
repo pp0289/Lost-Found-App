@@ -156,7 +156,7 @@ main {
   background-color: white;
   margin: 0 24px;
   margin-bottom: 6vmin;
-  border-radius: 12px;
+  border-radius: 6px;
   box-shadow: 0 0 7px rgba(0, 0, 0, 0.318);
   transition: transform 0.3s ease;
   border: 1px solid #f0f0f0;
@@ -170,8 +170,8 @@ main {
 .img-container {
   width: 20vw;
   aspect-ratio: 3/2.5;
-  border-top-left-radius: 12px;
-  border-top-right-radius: 12px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
   overflow: hidden;
 }
 
@@ -221,14 +221,14 @@ main {
   /* background-color: aqua; */
   height: 7vh;
   font-size: 1.3em;
-  font-family: sans-serif;
+  font-family: Ubuntu;
   font-weight: 450;
 }
 
 .item-location {
   /* background-color: blueviolet; */
   height: 5.5vh;
-  font-family: sans-serif;
+  font-family: Ubuntu;
   font-size: 1.05em;
   margin: 20px 0;
 }
@@ -238,7 +238,7 @@ main {
   display: flex;
   align-items: center;
   font-size: 0.98em;
-  font-family: sans-serif;
+  font-family: Ubuntu;
   margin-bottom: 10px;
   /* background-color: aqua; */
 }
@@ -250,7 +250,7 @@ main {
   border-radius: 8px;
   background-color: rgba(0, 0, 0, 0.9);
   color: white;
-  font-family: sans-serif;
+  font-family: Ubuntu;
   font-size: 0.95rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
   transition: all 0.1s ease;
