@@ -170,8 +170,8 @@ main {
 .img-container {
   width: 20vw;
   aspect-ratio: 3/2.5;
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
   overflow: hidden;
 }
 
@@ -221,14 +221,14 @@ main {
   /* background-color: aqua; */
   height: 7vh;
   font-size: 1.3em;
-  font-family: roboto;
+  font-family: sans-serif;
   font-weight: 450;
 }
 
 .item-location {
   /* background-color: blueviolet; */
   height: 5.5vh;
-  font-family: Ubuntu;
+  font-family: sans-serif;
   font-size: 1.05em;
   margin: 20px 0;
 }
@@ -238,7 +238,7 @@ main {
   display: flex;
   align-items: center;
   font-size: 0.98em;
-  font-family: Ubuntu;
+  font-family: sans-serif;
   margin-bottom: 10px;
   /* background-color: aqua; */
 }
@@ -250,7 +250,7 @@ main {
   border-radius: 8px;
   background-color: rgba(0, 0, 0, 0.9);
   color: white;
-  font-family: Ubuntu;
+  font-family: sans-serif;
   font-size: 0.95rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
   transition: all 0.1s ease;
@@ -264,8 +264,8 @@ main {
   margin-right: 10px;
   /* width: calc(100% - 5vw - 10px); */
   width: 100%;
-  /* background-color: #0866ff; */
-  background-color: #4F46E5;
+  background-color: #0866ff;
+  /* background-color: #4F46E5; */
   /* background-color: rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
   border: 1px solid rgba(0, 0, 0, 0.4); */
