@@ -247,7 +247,7 @@ main {
   height: 5vh;
   width: 5vw;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
   background-color: rgba(0, 0, 0, 0.9);
   color: white;
   font-family: Ubuntu;
@@ -264,7 +264,8 @@ main {
   margin-right: 10px;
   /* width: calc(100% - 5vw - 10px); */
   width: 100%;
-  background-color: #0866ff;
+  /* background-color: #0866ff; */
+  background-color: #4F46E5;
   /* background-color: rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
   border: 1px solid rgba(0, 0, 0, 0.4); */
